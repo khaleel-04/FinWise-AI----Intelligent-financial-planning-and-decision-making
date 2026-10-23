@@ -143,7 +143,7 @@ FinWise AI is intended for educational and financial planning purposes. Predicti
 
 **Khaleel Khan**
 
-Computer Science and Engineering | Artificial Intelligence | Machine Learning | Data Analytics
+Artificial Intelligence | Machine Learning | Data Science
 
 ## ⭐ Project Vision
 
